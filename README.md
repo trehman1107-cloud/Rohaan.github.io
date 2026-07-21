@@ -4,8 +4,7 @@
 
 📍 Lahore, Pakistan
 📧 [trehman1107@gmail.com](mailto:trehman1107@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/rohaan-rehman)
-🐙 [GitHub](https://github.com/rohaan-rehman)
+🐙 [GitHub](https://trehman1107-cloud.github.io/Rohaan.github.io/)
 
 ---
 
@@ -98,7 +97,7 @@ A research-based epidemiological analysis of Ebola virus spread across affected 
 * Generated trend visualizations and geospatial heatmaps.
 * Analyzed outbreak phases and identified critical intervention periods.
 
-🔗 **[View Project]()**
+🔗 **[View Project](https://trehman1107-cloud.github.io/Rohaan.github.io/ebola-virus/)**
 
 ---
 
